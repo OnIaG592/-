@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Domashnee\Массив11\Массив11\bin\Debug\netcoreapp3.1\Массив11.exe
+C:\Users\Admin\Desktop\Domashnee\Массив11\Массив11\bin\Debug\netcoreapp3.1\Массив11.deps.json
+C:\Users\Admin\Desktop\Domashnee\Массив11\Массив11\bin\Debug\netcoreapp3.1\Массив11.runtimeconfig.json
+C:\Users\Admin\Desktop\Domashnee\Массив11\Массив11\bin\Debug\netcoreapp3.1\Массив11.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Domashnee\Массив11\Массив11\bin\Debug\netcoreapp3.1\Массив11.dll
+C:\Users\Admin\Desktop\Domashnee\Массив11\Массив11\bin\Debug\netcoreapp3.1\Массив11.pdb
+C:\Users\Admin\Desktop\Domashnee\Массив11\Массив11\obj\Debug\netcoreapp3.1\Массив11.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Domashnee\Массив11\Массив11\obj\Debug\netcoreapp3.1\Массив11.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Domashnee\Массив11\Массив11\obj\Debug\netcoreapp3.1\Массив11.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Domashnee\Массив11\Массив11\obj\Debug\netcoreapp3.1\Массив11.dll
+C:\Users\Admin\Desktop\Domashnee\Массив11\Массив11\obj\Debug\netcoreapp3.1\Массив11.pdb
+C:\Users\Admin\Desktop\Domashnee\Массив11\Массив11\obj\Debug\netcoreapp3.1\Массив11.genruntimeconfig.cache

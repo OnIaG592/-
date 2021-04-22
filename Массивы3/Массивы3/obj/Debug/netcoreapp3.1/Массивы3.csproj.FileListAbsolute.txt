@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Domashnee\Массивы3\Массивы3\bin\Debug\netcoreapp3.1\Массивы3.exe
+C:\Users\Admin\Desktop\Domashnee\Массивы3\Массивы3\bin\Debug\netcoreapp3.1\Массивы3.deps.json
+C:\Users\Admin\Desktop\Domashnee\Массивы3\Массивы3\bin\Debug\netcoreapp3.1\Массивы3.runtimeconfig.json
+C:\Users\Admin\Desktop\Domashnee\Массивы3\Массивы3\bin\Debug\netcoreapp3.1\Массивы3.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Domashnee\Массивы3\Массивы3\bin\Debug\netcoreapp3.1\Массивы3.dll
+C:\Users\Admin\Desktop\Domashnee\Массивы3\Массивы3\bin\Debug\netcoreapp3.1\Массивы3.pdb
+C:\Users\Admin\Desktop\Domashnee\Массивы3\Массивы3\obj\Debug\netcoreapp3.1\Массивы3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Domashnee\Массивы3\Массивы3\obj\Debug\netcoreapp3.1\Массивы3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Domashnee\Массивы3\Массивы3\obj\Debug\netcoreapp3.1\Массивы3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Domashnee\Массивы3\Массивы3\obj\Debug\netcoreapp3.1\Массивы3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Domashnee\Массивы3\Массивы3\obj\Debug\netcoreapp3.1\Массивы3.dll
+C:\Users\Admin\Desktop\Domashnee\Массивы3\Массивы3\obj\Debug\netcoreapp3.1\Массивы3.pdb
+C:\Users\Admin\Desktop\Domashnee\Массивы3\Массивы3\obj\Debug\netcoreapp3.1\Массивы3.genruntimeconfig.cache

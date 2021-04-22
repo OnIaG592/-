@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Domashnee\Массивы10\Массивы10\bin\Debug\netcoreapp3.1\Массивы10.exe
+C:\Users\Admin\Desktop\Domashnee\Массивы10\Массивы10\bin\Debug\netcoreapp3.1\Массивы10.deps.json
+C:\Users\Admin\Desktop\Domashnee\Массивы10\Массивы10\bin\Debug\netcoreapp3.1\Массивы10.runtimeconfig.json
+C:\Users\Admin\Desktop\Domashnee\Массивы10\Массивы10\bin\Debug\netcoreapp3.1\Массивы10.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Domashnee\Массивы10\Массивы10\bin\Debug\netcoreapp3.1\Массивы10.dll
+C:\Users\Admin\Desktop\Domashnee\Массивы10\Массивы10\bin\Debug\netcoreapp3.1\Массивы10.pdb
+C:\Users\Admin\Desktop\Domashnee\Массивы10\Массивы10\obj\Debug\netcoreapp3.1\Массивы10.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Domashnee\Массивы10\Массивы10\obj\Debug\netcoreapp3.1\Массивы10.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Domashnee\Массивы10\Массивы10\obj\Debug\netcoreapp3.1\Массивы10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Domashnee\Массивы10\Массивы10\obj\Debug\netcoreapp3.1\Массивы10.dll
+C:\Users\Admin\Desktop\Domashnee\Массивы10\Массивы10\obj\Debug\netcoreapp3.1\Массивы10.pdb
+C:\Users\Admin\Desktop\Domashnee\Массивы10\Массивы10\obj\Debug\netcoreapp3.1\Массивы10.genruntimeconfig.cache
