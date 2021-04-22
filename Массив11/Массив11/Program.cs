@@ -8,7 +8,9 @@ namespace Массив11
         {
             Console.WriteLine("Ввведите имя первого");
             bool d = false;
+            bool e = false;
             string firstName = "0";
+            string secondName = "1";
             do {
                 try
                 {
@@ -55,7 +57,29 @@ namespace Массив11
             while (a == false);
 
             Console.WriteLine("Ввведите имя второго");
-            string secondName = Console.ReadLine();
+            do
+            {
+                try
+                {
+                    secondName = Console.ReadLine();
+                    foreach (var item in secondName)
+                    {
+                        if (item >= '0' && item <= '9')
+                        {
+                            Console.WriteLine("Не правильный ввод;\nВведите заного");
+                            e = false;
+                            break;
+                        }
+                        else { d = true; }
+
+                    }
+                }
+                catch
+                {
+                    Console.WriteLine("Не правильный ввод;\nВведите заного");
+
+                }
+            } while (e == false);
             bool b = false;
             Console.WriteLine("Ввведите возраст второго");
             do
