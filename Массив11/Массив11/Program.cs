@@ -7,7 +7,30 @@ namespace Массив11
         static void Main(string[] args)
         {
             Console.WriteLine("Ввведите имя первого");
-            string firstName = Console.ReadLine();
+            bool d = false;
+            string firstName = "0";
+            do {
+                try
+                {
+                firstName = Console.ReadLine();
+                    foreach (var item in firstName)
+                    {
+                        if (item >= '0' && item <= '9') 
+                        { Console.WriteLine("Не правильный ввод;\nВведите заного");
+                            d = false;
+                            break;
+                        }
+                        else { d = true; }
+                        
+                    }
+                }
+                catch 
+                {
+                    Console.WriteLine("Не правильный ввод;\nВведите заного");
+
+                }
+            } while (d==false);
+            
             bool a = false;
             int firstAge = 0;
             int secondAge = 0;
