@@ -70,7 +70,7 @@ namespace Массив11
                             e = false;
                             break;
                         }
-                        else { d = true; }
+                        else { e = true; }
 
                     }
                 }
