@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Domashnee\Метод\Метод\bin\Debug\netcoreapp3.1\Метод.exe
+C:\Users\Admin\Desktop\Domashnee\Метод\Метод\bin\Debug\netcoreapp3.1\Метод.deps.json
+C:\Users\Admin\Desktop\Domashnee\Метод\Метод\bin\Debug\netcoreapp3.1\Метод.runtimeconfig.json
+C:\Users\Admin\Desktop\Domashnee\Метод\Метод\bin\Debug\netcoreapp3.1\Метод.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Domashnee\Метод\Метод\bin\Debug\netcoreapp3.1\Метод.dll
+C:\Users\Admin\Desktop\Domashnee\Метод\Метод\bin\Debug\netcoreapp3.1\Метод.pdb
+C:\Users\Admin\Desktop\Domashnee\Метод\Метод\obj\Debug\netcoreapp3.1\Метод.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Domashnee\Метод\Метод\obj\Debug\netcoreapp3.1\Метод.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Domashnee\Метод\Метод\obj\Debug\netcoreapp3.1\Метод.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Domashnee\Метод\Метод\obj\Debug\netcoreapp3.1\Метод.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Domashnee\Метод\Метод\obj\Debug\netcoreapp3.1\Метод.dll
+C:\Users\Admin\Desktop\Domashnee\Метод\Метод\obj\Debug\netcoreapp3.1\Метод.pdb
+C:\Users\Admin\Desktop\Domashnee\Метод\Метод\obj\Debug\netcoreapp3.1\Метод.genruntimeconfig.cache
