@@ -1,0 +1,11 @@
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Рекурсия4\Рекурсия4\bin\Debug\netcoreapp3.0\Рекурсия4.exe
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Рекурсия4\Рекурсия4\bin\Debug\netcoreapp3.0\Рекурсия4.deps.json
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Рекурсия4\Рекурсия4\bin\Debug\netcoreapp3.0\Рекурсия4.runtimeconfig.json
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Рекурсия4\Рекурсия4\bin\Debug\netcoreapp3.0\Рекурсия4.runtimeconfig.dev.json
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Рекурсия4\Рекурсия4\bin\Debug\netcoreapp3.0\Рекурсия4.dll
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Рекурсия4\Рекурсия4\bin\Debug\netcoreapp3.0\Рекурсия4.pdb
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Рекурсия4\Рекурсия4\obj\Debug\netcoreapp3.0\Рекурсия4.csprojAssemblyReference.cache
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Рекурсия4\Рекурсия4\obj\Debug\netcoreapp3.0\Рекурсия4.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Рекурсия4\Рекурсия4\obj\Debug\netcoreapp3.0\Рекурсия4.AssemblyInfo.cs
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Рекурсия4\Рекурсия4\obj\Debug\netcoreapp3.0\Рекурсия4.dll
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Рекурсия4\Рекурсия4\obj\Debug\netcoreapp3.0\Рекурсия4.pdb

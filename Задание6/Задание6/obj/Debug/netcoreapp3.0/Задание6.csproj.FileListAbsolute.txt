@@ -1,0 +1,11 @@
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Задание6\Задание6\bin\Debug\netcoreapp3.0\Задание6.exe
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Задание6\Задание6\bin\Debug\netcoreapp3.0\Задание6.deps.json
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Задание6\Задание6\bin\Debug\netcoreapp3.0\Задание6.runtimeconfig.json
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Задание6\Задание6\bin\Debug\netcoreapp3.0\Задание6.runtimeconfig.dev.json
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Задание6\Задание6\bin\Debug\netcoreapp3.0\Задание6.dll
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Задание6\Задание6\bin\Debug\netcoreapp3.0\Задание6.pdb
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Задание6\Задание6\obj\Debug\netcoreapp3.0\Задание6.csprojAssemblyReference.cache
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Задание6\Задание6\obj\Debug\netcoreapp3.0\Задание6.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Задание6\Задание6\obj\Debug\netcoreapp3.0\Задание6.AssemblyInfo.cs
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Задание6\Задание6\obj\Debug\netcoreapp3.0\Задание6.dll
+C:\Users\User.DESKTOP-OGUT4EN\Desktop\Гусейн\Задание6\Задание6\obj\Debug\netcoreapp3.0\Задание6.pdb
