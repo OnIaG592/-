@@ -1,0 +1,11 @@
+C:\Users\User.DESKTOP-OGUT4EN\source\repos\Задание2\Задание2\bin\Debug\netcoreapp3.0\Задание2.exe
+C:\Users\User.DESKTOP-OGUT4EN\source\repos\Задание2\Задание2\bin\Debug\netcoreapp3.0\Задание2.deps.json
+C:\Users\User.DESKTOP-OGUT4EN\source\repos\Задание2\Задание2\bin\Debug\netcoreapp3.0\Задание2.runtimeconfig.json
+C:\Users\User.DESKTOP-OGUT4EN\source\repos\Задание2\Задание2\bin\Debug\netcoreapp3.0\Задание2.runtimeconfig.dev.json
+C:\Users\User.DESKTOP-OGUT4EN\source\repos\Задание2\Задание2\bin\Debug\netcoreapp3.0\Задание2.dll
+C:\Users\User.DESKTOP-OGUT4EN\source\repos\Задание2\Задание2\bin\Debug\netcoreapp3.0\Задание2.pdb
+C:\Users\User.DESKTOP-OGUT4EN\source\repos\Задание2\Задание2\obj\Debug\netcoreapp3.0\Задание2.csprojAssemblyReference.cache
+C:\Users\User.DESKTOP-OGUT4EN\source\repos\Задание2\Задание2\obj\Debug\netcoreapp3.0\Задание2.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-OGUT4EN\source\repos\Задание2\Задание2\obj\Debug\netcoreapp3.0\Задание2.AssemblyInfo.cs
+C:\Users\User.DESKTOP-OGUT4EN\source\repos\Задание2\Задание2\obj\Debug\netcoreapp3.0\Задание2.dll
+C:\Users\User.DESKTOP-OGUT4EN\source\repos\Задание2\Задание2\obj\Debug\netcoreapp3.0\Задание2.pdb
