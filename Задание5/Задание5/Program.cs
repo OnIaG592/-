@@ -9,10 +9,13 @@ namespace Задание5
             Console.WriteLine("Введите Размер массива");
             int n = AskAge();
             Array info = new Array(n);
-            Console.WriteLine("Введите скаляр");
-            info.Skalyar= AskAge();
             Console.WriteLine("Введите числа массива");
             info.Elements();
+            Console.WriteLine("Введите скаляр");
+            info.Skalyar = AskAge();
+            info.Item();
+            info.BubbleSort();
+            Console.WriteLine("Отсортированный массив");
             info.Item();
             Console.ReadKey();
         }
@@ -44,7 +47,7 @@ namespace Задание5
     class Array
     {
         private int[] array;
-        public int n;
+        private int n;
         public int[] A
         {
             get
@@ -69,26 +72,30 @@ namespace Задание5
         }
 
         public int Lenght { get { return n; } private set { } }
+        
+        public Array(int N) { n = N; array = new int[n]; }
+        public void Elements()
+        {
+            for (int i = 0; i < array.Length; i++)
+            {
+                array[i] = AskAge();
+            }
+        }
         public int Skalyar
         {
-            private get { return Skalyar; }
+            private get { return array[n]; }
             set
             {
                 for (int i = 0; i < array.Length; i++)
                 {
                     array[i] *= value;
+
                 }
             }
         }
-        public Array (int N) { n = N; array = new int[n]; }
-        public void Elements()
+        public void BubbleSort()
         {
-            for (int i = 0; i < array.Length; i++)
-            {
-                 array[i] = AskAge();
-            } }
-        public void BubbleSort(int[]array) {
-            for (int i = 0; i < array.Length; i++)
+            for (int i = 0; i < array.Length-1; i++)
             {
                 for (int j = i + 1; j < array.Length; j++)
                 {
