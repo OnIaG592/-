@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Domashnee\Задание5\Задание5\bin\Debug\netcoreapp3.1\Задание5.exe
+C:\Users\Admin\Desktop\Domashnee\Задание5\Задание5\bin\Debug\netcoreapp3.1\Задание5.deps.json
+C:\Users\Admin\Desktop\Domashnee\Задание5\Задание5\bin\Debug\netcoreapp3.1\Задание5.runtimeconfig.json
+C:\Users\Admin\Desktop\Domashnee\Задание5\Задание5\bin\Debug\netcoreapp3.1\Задание5.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Domashnee\Задание5\Задание5\bin\Debug\netcoreapp3.1\Задание5.dll
+C:\Users\Admin\Desktop\Domashnee\Задание5\Задание5\bin\Debug\netcoreapp3.1\Задание5.pdb
+C:\Users\Admin\Desktop\Domashnee\Задание5\Задание5\obj\Debug\netcoreapp3.1\Задание5.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Domashnee\Задание5\Задание5\obj\Debug\netcoreapp3.1\Задание5.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Domashnee\Задание5\Задание5\obj\Debug\netcoreapp3.1\Задание5.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Domashnee\Задание5\Задание5\obj\Debug\netcoreapp3.1\Задание5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Domashnee\Задание5\Задание5\obj\Debug\netcoreapp3.1\Задание5.dll
+C:\Users\Admin\Desktop\Domashnee\Задание5\Задание5\obj\Debug\netcoreapp3.1\Задание5.pdb
+C:\Users\Admin\Desktop\Domashnee\Задание5\Задание5\obj\Debug\netcoreapp3.1\Задание5.genruntimeconfig.cache
