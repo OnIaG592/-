@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Domashnee\Счета\Счета\obj\Debug\netcoreapp3.1\Счета.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Domashnee\Счета\Счета\obj\Debug\netcoreapp3.1\Счета.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Domashnee\Счета\Счета\obj\Debug\netcoreapp3.1\Счета.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Domashnee\Счета\Счета\obj\Debug\netcoreapp3.1\Счета.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Domashnee\Счета\Счета\bin\Debug\netcoreapp3.1\Счета.exe
+C:\Users\Admin\Desktop\Domashnee\Счета\Счета\bin\Debug\netcoreapp3.1\Счета.deps.json
+C:\Users\Admin\Desktop\Domashnee\Счета\Счета\bin\Debug\netcoreapp3.1\Счета.runtimeconfig.json
+C:\Users\Admin\Desktop\Domashnee\Счета\Счета\bin\Debug\netcoreapp3.1\Счета.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Domashnee\Счета\Счета\bin\Debug\netcoreapp3.1\Счета.dll
+C:\Users\Admin\Desktop\Domashnee\Счета\Счета\bin\Debug\netcoreapp3.1\Счета.pdb
+C:\Users\Admin\Desktop\Domashnee\Счета\Счета\obj\Debug\netcoreapp3.1\Счета.dll
+C:\Users\Admin\Desktop\Domashnee\Счета\Счета\obj\Debug\netcoreapp3.1\Счета.pdb
+C:\Users\Admin\Desktop\Domashnee\Счета\Счета\obj\Debug\netcoreapp3.1\Счета.genruntimeconfig.cache
