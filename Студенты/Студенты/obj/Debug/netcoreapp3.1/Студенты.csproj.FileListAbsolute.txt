@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Domashnee\Студенты\Студенты\bin\Debug\netcoreapp3.1\Студенты.exe
+C:\Users\Admin\Desktop\Domashnee\Студенты\Студенты\bin\Debug\netcoreapp3.1\Студенты.deps.json
+C:\Users\Admin\Desktop\Domashnee\Студенты\Студенты\bin\Debug\netcoreapp3.1\Студенты.runtimeconfig.json
+C:\Users\Admin\Desktop\Domashnee\Студенты\Студенты\bin\Debug\netcoreapp3.1\Студенты.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Domashnee\Студенты\Студенты\bin\Debug\netcoreapp3.1\Студенты.dll
+C:\Users\Admin\Desktop\Domashnee\Студенты\Студенты\bin\Debug\netcoreapp3.1\Студенты.pdb
+C:\Users\Admin\Desktop\Domashnee\Студенты\Студенты\obj\Debug\netcoreapp3.1\Студенты.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Domashnee\Студенты\Студенты\obj\Debug\netcoreapp3.1\Студенты.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Domashnee\Студенты\Студенты\obj\Debug\netcoreapp3.1\Студенты.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Domashnee\Студенты\Студенты\obj\Debug\netcoreapp3.1\Студенты.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Domashnee\Студенты\Студенты\obj\Debug\netcoreapp3.1\Студенты.dll
+C:\Users\Admin\Desktop\Domashnee\Студенты\Студенты\obj\Debug\netcoreapp3.1\Студенты.pdb
+C:\Users\Admin\Desktop\Domashnee\Студенты\Студенты\obj\Debug\netcoreapp3.1\Студенты.genruntimeconfig.cache
