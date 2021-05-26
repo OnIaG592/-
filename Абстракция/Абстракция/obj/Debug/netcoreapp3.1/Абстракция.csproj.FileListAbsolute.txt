@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Domashnee\Абстракция\Абстракция\bin\Debug\netcoreapp3.1\Абстракция.exe
+C:\Users\Admin\Desktop\Domashnee\Абстракция\Абстракция\bin\Debug\netcoreapp3.1\Абстракция.deps.json
+C:\Users\Admin\Desktop\Domashnee\Абстракция\Абстракция\bin\Debug\netcoreapp3.1\Абстракция.runtimeconfig.json
+C:\Users\Admin\Desktop\Domashnee\Абстракция\Абстракция\bin\Debug\netcoreapp3.1\Абстракция.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Domashnee\Абстракция\Абстракция\bin\Debug\netcoreapp3.1\Абстракция.dll
+C:\Users\Admin\Desktop\Domashnee\Абстракция\Абстракция\bin\Debug\netcoreapp3.1\Абстракция.pdb
+C:\Users\Admin\Desktop\Domashnee\Абстракция\Абстракция\obj\Debug\netcoreapp3.1\Абстракция.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Domashnee\Абстракция\Абстракция\obj\Debug\netcoreapp3.1\Абстракция.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Domashnee\Абстракция\Абстракция\obj\Debug\netcoreapp3.1\Абстракция.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Domashnee\Абстракция\Абстракция\obj\Debug\netcoreapp3.1\Абстракция.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Domashnee\Абстракция\Абстракция\obj\Debug\netcoreapp3.1\Абстракция.dll
+C:\Users\Admin\Desktop\Domashnee\Абстракция\Абстракция\obj\Debug\netcoreapp3.1\Абстракция.pdb
+C:\Users\Admin\Desktop\Domashnee\Абстракция\Абстракция\obj\Debug\netcoreapp3.1\Абстракция.genruntimeconfig.cache
