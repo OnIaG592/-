@@ -12,6 +12,7 @@ namespace PingPong
             {
                 bool queue = true;
                 static void DisplayMessage(string message) { Console.WriteLine(message); };
+                static void DisplayRedMessage(string message) { Console.ForegroundColor = ConsoleColor.Red; }
                 Console.WriteLine("1-Выбор первой пары.\n2-Выбор второй пары.\n3-Выход");
                 string answer = Console.ReadLine();
                 switch (answer)
@@ -34,8 +35,11 @@ namespace PingPong
                                     if (queue==true)
                                     {
                                         Ping ping = new Ping(playerOne);
+                                        Console.ForegroundColor = ConsoleColor.Red;
                                         ping.Notify += DisplayMessage;
                                         ping.Play(playerOne);
+                                        Console.Beep();
+                                        Console.ForegroundColor = ConsoleColor.White;
                                         queue = false;
                                     }
                                     else { Console.WriteLine("Очередь второго игрока"); }
@@ -45,8 +49,11 @@ namespace PingPong
                                     if (queue == false)
                                     {
                                         Pong pong = new Pong(playerTwo);
+                                        Console.ForegroundColor = ConsoleColor.Blue;
                                         pong.Notify += DisplayMessage;
                                         pong.Play(playerTwo);
+                                        Console.Beep();
+                                        Console.ForegroundColor = ConsoleColor.White;
                                         queue = true;
                                     }
                                     else { Console.WriteLine("Очередь первого игрока"); }
@@ -79,8 +86,11 @@ namespace PingPong
                                     if (queue == true)
                                     {
                                         Ping ping = new Ping(playerThree);
+                                        Console.ForegroundColor = ConsoleColor.Green;
                                         ping.Notify += DisplayMessage;
                                         ping.Play(playerThree);
+                                        Console.Beep();
+                                        Console.ForegroundColor = ConsoleColor.White;
                                         queue = false;
                                     }
                                     else { Console.WriteLine("Очередь четвертого игрока"); }
@@ -90,8 +100,11 @@ namespace PingPong
                                     if (queue == false)
                                     {
                                         Pong pong = new Pong(playerFour);
+                                        Console.ForegroundColor = ConsoleColor.Yellow;
                                         pong.Notify += DisplayMessage;
                                         pong.Play(playerFour);
+                                        Console.Beep();
+                                        Console.ForegroundColor = ConsoleColor.White;
                                         queue = true;
                                     }
                                     else { Console.WriteLine("Очередь третьего игрока"); }
