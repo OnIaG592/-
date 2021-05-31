@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Domashnee\Araylist\Araylist\bin\Debug\netcoreapp3.1\Araylist.exe
+C:\Users\Admin\Desktop\Domashnee\Araylist\Araylist\bin\Debug\netcoreapp3.1\Araylist.deps.json
+C:\Users\Admin\Desktop\Domashnee\Araylist\Araylist\bin\Debug\netcoreapp3.1\Araylist.runtimeconfig.json
+C:\Users\Admin\Desktop\Domashnee\Araylist\Araylist\bin\Debug\netcoreapp3.1\Araylist.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Domashnee\Araylist\Araylist\bin\Debug\netcoreapp3.1\Araylist.dll
+C:\Users\Admin\Desktop\Domashnee\Araylist\Araylist\bin\Debug\netcoreapp3.1\Araylist.pdb
+C:\Users\Admin\Desktop\Domashnee\Araylist\Araylist\obj\Debug\netcoreapp3.1\Araylist.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Domashnee\Araylist\Araylist\obj\Debug\netcoreapp3.1\Araylist.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Domashnee\Araylist\Araylist\obj\Debug\netcoreapp3.1\Araylist.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Domashnee\Araylist\Araylist\obj\Debug\netcoreapp3.1\Araylist.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Domashnee\Araylist\Araylist\obj\Debug\netcoreapp3.1\Araylist.dll
+C:\Users\Admin\Desktop\Domashnee\Araylist\Araylist\obj\Debug\netcoreapp3.1\Araylist.pdb
+C:\Users\Admin\Desktop\Domashnee\Araylist\Araylist\obj\Debug\netcoreapp3.1\Araylist.genruntimeconfig.cache
